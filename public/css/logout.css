@@ -1,0 +1,84 @@
+@charset "utf-8";
+
+html {
+    height: 100%;
+}
+
+body {
+
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background: linear-gradient(180deg, #3C4767 60%, #cd5c5c);
+}
+
+.welcome {
+    font-size: 1rem;
+    margin-bottom: 20px;
+    font-weight: normal;
+    letter-spacing: 4px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.sns {
+    font-size: 1rem;
+    margin-bottom: 40px;
+    font-weight: normal;
+    letter-spacing: 4px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.loginform {
+    font-size: 1rem;
+    margin-bottom: 50px;
+    font-weight: normal;
+    letter-spacing: 4px;
+    color: #ffffff;
+    text-align: center;
+}
+
+p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    font-weight: normal;
+    letter-spacing: 4px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.loginsns {
+    font-size: 1rem;
+    margin-bottom: 50px;
+    font-weight: normal;
+    letter-spacing: 4px;
+    color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+Form {
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
+#container {
+
+    width: 30%;
+    height: 260px;
+    border-radius: 10px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 16px;
+
+
+
+}
