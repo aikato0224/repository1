@@ -144,3 +144,4 @@ class UsersController extends Controller
     }
 
 }
+// こんにちは
